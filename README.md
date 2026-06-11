@@ -33,7 +33,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-007ec6?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-007ec6?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-MSK-007ec6?style=for-the-badge&logo=apachekafka&logoColor=white)
-![GitHub license](https://img.shields.io/github/license/igorfclima/onlybasic?style=for-the-badge&color=007ec6&logo=opensourceinitiative)
+![GitHub license](https://img.shields.io/github/license/igorfclima/Trabalho-Final-Projeto?style=for-the-badge&color=007ec6&logo=opensourceinitiative)
 
 ---
 
